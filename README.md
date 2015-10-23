@@ -1,6 +1,7 @@
-My Awesome Book
-=======
+#README
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+设计笔记分享——芳叔教你学射鸡。
 
-测试发布一下
+不断更新中……
+
+在线阅读，[请猛戳这里](http://ahdou.github.io/fangdesignnotes/)
